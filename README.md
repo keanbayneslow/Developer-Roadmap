@@ -1,7 +1,7 @@
 
-![Web Developer Roadmap - 2021](https://i.imgur.com/4u3LK4j.png)
 
-> Roadmap to becoming a web developer in 2021
+
+> Roadmap to becoming a web developer in 2023
 
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 [![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
